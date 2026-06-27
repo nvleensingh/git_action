@@ -1,3 +1,4 @@
+name: Flask CI/CD Rollback Demo
 
 on:
   push:
